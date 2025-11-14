@@ -1,4 +1,4 @@
-# 📄 **blog-prompts.md (완성본)**
+# 📄 **blog-prompts.md **
 
 👉 이 내용을 그대로 깃허브 파일에 붙여 넣으세요!
 
